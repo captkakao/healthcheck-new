@@ -6,11 +6,11 @@
 [![Contributors](https://img.shields.io/github/contributors-anon/adata-team/healthcheck)](https://github.com/adata-team/healthcheck)
 [![Release](https://img.shields.io/github/v/release/adata-team/healthcheck)](https://github.com/adata-team/healthcheck)
 
-## Quick start for Lumen application 
+## Quick start for Lumen/Laravel application 
 
 ### 1. Install via composer:
 ```shell
-composer require adata-team/healthchecker
+composer require captkakao/healthchecker-new
 ```
 ### 2. Make configuration file in `config/health.php` with content
 ```php
