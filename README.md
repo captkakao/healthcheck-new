@@ -10,7 +10,7 @@
 
 ### 1. Install via composer:
 ```shell
-composer require captkakao/healthchecker-new
+composer require captkakao/healthchecker
 ```
 ### 2. Make configuration file in `config/health.php` with content
 ```php
